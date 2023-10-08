@@ -1,2 +1,5 @@
-# med_craft_clone
-Med Craft clone
+# med_craft
+
+## BackEnd Technology : FastAPI
+
+Medical Solution For hassle Free Hospital Activities
